@@ -1,0 +1,121 @@
+﻿  AssetManager.cpp
+  Calcul.cpp
+  Car.cpp
+  Character.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Car.cpp(11,12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(15,25): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(18,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(22,15): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(23,15): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(27,22): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(28,22): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(43,22): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(57,16): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(58,16): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(59,18): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Character.cpp(60,18): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Circle.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(15,18): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(18,15): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(22,12): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(23,12): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(27,16): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(28,16): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Circle.cpp(43,19): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Ennemy.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Ennemy.cpp(4,95): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  GameManager.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(18,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(30,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(46,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(66,21): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(105,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(109,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(112,24): warning C4129: « R » : séquence d’échappement de caractères non reconnue
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(233,47): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(235,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(291,101): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(291,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(300,101): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(300,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(318,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(321,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(324,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(331,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(335,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(339,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(343,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(347,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(480,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(496,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(501,122): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(501,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(521,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(526,127): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(526,80): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(546,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(551,127): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(551,80): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(647,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(662,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(686,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(705,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(736,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(756,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(786,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(806,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(833,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(840,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(860,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(880,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(915,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(920,137): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(920,86): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(931,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(949,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(959,17): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(974,18): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(975,18): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(977,18): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(978,18): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\GameManager.cpp(1081,19): warning C4244: 'argument' : conversion de 'float' en 'Uint32', perte possible de données
+  Geometry.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Geometry.cpp(62,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Geometry.cpp(66,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Helico.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Helico.cpp(11,12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Hero.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Hero.cpp(4,91): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Hero.cpp(11,12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Image.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(18,20): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(19,21): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(23,13): warning C4244: '*=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(24,14): warning C4244: '*=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(29,19): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(29,19): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(29,24): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Image.cpp(29,24): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  ImageMenu.cpp
+  InputManager.cpp
+  main.cpp
+  Menu.cpp
+  Moto.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Moto.cpp(11,12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Obstacle.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Obstacle.cpp(5,99): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Obstacle.cpp(7,29): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Obstacle.cpp(34,15): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Rectangle.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Rectangle.cpp(11,20): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Rectangle.cpp(11,20): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Rectangle.cpp(11,25): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Rectangle.cpp(11,25): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  TankBoss.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\TankBoss.cpp(4,99): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\TankBoss.cpp(6,25): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\TankBoss.cpp(11,12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\TankBoss.cpp(72,16): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\src\ShootEmUp\Geometry.cpp(68,1): warning C4715: 'Geometry::Shot' : les chemins de contrôle ne retournent pas tous une valeur
+  ShootEmUp.vcxproj -> C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p6-02\ide\ShootEmUp\x64\Debug\ShootEmUp.exe
